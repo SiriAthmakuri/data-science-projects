@@ -69,4 +69,4 @@ Computer Science Engineering Student
 Aspiring Data Scientist  
 
 GitHub: [https://github.com/SiriAthmakuri](https://github.com/SiriAthmakuri)  
-LinkedIn: (Add your LinkedIn profile link)
+LinkedIn: (www.linkedin.com/in/athmakuri-siri-20692a258)
