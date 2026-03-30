@@ -1,2 +1,2 @@
 # data-science-projects
-My 30+ Data Science projects during internship”
+My Data Science projects during internship”
