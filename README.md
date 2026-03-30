@@ -71,8 +71,8 @@ Open `(your_notebook_name.ipynb)` to explore preprocessing, analysis, model trai
 ---
 
 ## Author
-**Your Name**  
-Brief credentials (e.g., Computer Science Student, Aspiring Data Scientist)  
+**Athmakuri Siri**  
+Computer Science Student, Aspiring Data Scientist
 
 GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
 LinkedIn: [Your LinkedIn Profile]
