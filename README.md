@@ -75,4 +75,4 @@ Open `(your_notebook_name.ipynb)` to explore preprocessing, analysis, model trai
 Computer Science Student, Aspiring Data Scientist
 
 GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [www.linkedin.com/in/athmakuri-siri-20692a258]
