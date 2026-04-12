@@ -73,6 +73,5 @@ Open `(your_notebook_name.ipynb)` to explore preprocessing, analysis, model trai
 ## Author
 **Athmakuri Siri**  
 Computer Science Student, Aspiring Data Scientist
-
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+ 
 LinkedIn: [www.linkedin.com/in/athmakuri-siri-20692a258]
